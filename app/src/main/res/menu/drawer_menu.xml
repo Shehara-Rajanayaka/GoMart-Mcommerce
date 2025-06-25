@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/product"
+        android:title="GoMart Products" />
+    <item
+        android:id="@+id/promotion"
+        android:title="All Promotions" />
+    <item
+        android:id="@+id/exclusives"
+        android:title="GoMart Exclusives" />
+    <item
+        android:id="@+id/customer_support"
+        android:title="Customer Support" />
+</menu>

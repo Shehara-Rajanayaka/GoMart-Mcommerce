@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GoMart</string>
+    <string name="title_activity_customer_home">customer_home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_here_for_products">Search here for Products</string>
+
+    <string name="store_list">
+        <item>Keells Super</item>
+        <item>Arpico Supercentre</item>
+        <item>Laugfs Supermarket</item>
+        <item>Sathosa</item>
+        <item>SPAR Sri Lanka</item>
+        <item>Glomark</item>
+        <item>Food City Express</item>
+        <item>Nihonbashi</item>
+        <item>Premasiri Super Market</item>
+        <item>Araliya Super Center</item>
+        <item>Family Super</item>
+        <item>Sunup Supermarket</item>
+        <item>Lanka Sathosa</item>
+        <item>Super K</item>
+        <item>Arpico Daily</item>
+        <item>Cargills Express</item>
+        <item>Keells Super Express</item>
+        <item>Laugfs Sunup</item>
+        <item>SPAR Express</item>
+        <item>P and S (Perera and Sons)</item>
+        <item>Laughs Eco Sri Supermarket</item>
+        <item>Fresh Mart</item>
+        <item>Jayantha Supermarket</item>
+        <item>Richmart Super</item>
+        <item>Weligama Stores</item>
+    </string>
+    <string name="title_activity_tracklocation">tracklocation</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

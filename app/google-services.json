@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "257081580182",
+    "firebase_url": "https://gomart-98393-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gomart-98393",
+    "storage_bucket": "gomart-98393.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257081580182:android:a3854ccd29c7a36c4e80b7",
+        "android_client_info": {
+          "package_name": "com.slynec.gomart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo-ClNqCXR6LtQQGgpog4NO-GiluiVshI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

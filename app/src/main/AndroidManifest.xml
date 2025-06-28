@@ -34,7 +34,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA7uuSyISimSKc5b9vzJrVhDvv4jkPmLvI" />
+            android:value="" />
 
         <activity
             android:name=".customer.tracklocation"
